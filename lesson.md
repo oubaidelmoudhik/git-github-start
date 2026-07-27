@@ -36,3 +36,7 @@ git config --global user.email "your.email@example.com"
 # Check your configuration
 git config --list
 ```
+
+## Concept 2: Tracking Changes & Viewing History
+
+#### The Git Workflow: Add --> Commit --> Repeat
